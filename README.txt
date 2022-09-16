@@ -1,7 +1,5 @@
 Implements MVC architecture. The Model and the View are completely independent classes. Neither has any reference to the other.
 
-I tried to preserve the structure of the original assignment, but made a few changes. The CarSimulator class was moved to Model.py, data initializion of CarSimulator was moved to Control.py, and I added defaults to the CarSimulator constructor. 
-
 
 Running the App:
 	- requires pygame and NumPy (both can be installed with pip)

@@ -3,7 +3,7 @@ Implements MVC architecture. The Model and the View are completely independent c
 
 Running the App:
 	- requires pygame and NumPy (both can be installed with pip)
-	- run from inside the car_simulation folder to avoid 'FileNotFoundError' for car.png
+	- run from inside the car_simulator folder to avoid 'FileNotFoundError' for car.png
 	- run car_simulation.py
 
 
